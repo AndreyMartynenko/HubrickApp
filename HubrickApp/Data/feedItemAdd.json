@@ -1,0 +1,35 @@
+{  
+   "id":"2",
+   "type":"ADD",
+   "author":{  
+      "name":"hubrick_test",
+      "displayName":"Hubrick Test",
+      "avatarImage":{  
+         "url":"http://wp.patheos.com.s3.amazonaws.com/blogs/faithwalkers/files/2013/03/bigstock-Test-word-on-white-keyboard-27134336.jpg",
+         "mimeType":"image/jpeg"
+      }
+   },
+   "payload":{  
+      "stats":{  
+         "reactionStats":{  
+            "counts":{  
+               "LIKE":1,
+               "SHARE":1
+            },
+            "selfReactions":{  
+
+            }
+         },
+         "commentStats":{  
+            "count":1
+         }
+      },
+      "plainTitle":"Test title 001",
+      "plainContentPreview":"Plain test content 001, Plain test content 001, Plain test content 001, Plain test content 001",
+      "path":"/tease/test",
+      "headLineImage":{  
+         "url":"http://wp.patheos.com.s3.amazonaws.com/blogs/faithwalkers/files/2013/03/bigstock-Test-word-on-white-keyboard-27134336.jpg",
+         "mimeType":"image/jpeg"
+      }
+   }
+}

@@ -1,0 +1,35 @@
+{  
+   "id":"0",
+   "type":"UPDATE",
+   "author":{  
+      "name":"hubrick_test",
+      "displayName":"Hubrick Test update",
+      "avatarImage":{  
+         "url":"https://cryptojack.de/wp-content/uploads/2018/01/464788370.jpg",
+         "mimeType":"image/jpeg"
+      }
+   },
+   "payload":{  
+      "stats":{  
+         "reactionStats":{  
+            "counts":{  
+               "LIKE":10,
+               "SHARE":10
+            },
+            "selfReactions":{  
+
+            }
+         },
+         "commentStats":{  
+            "count":10
+         }
+      },
+      "plainTitle":"Test title 000 update",
+      "plainContentPreview":"Plain test content 000, Plain test content 000, Plain test content 000, Plain test content 000",
+      "path":"/tease/test",
+      "headLineImage":{  
+         "url":"https://cryptojack.de/wp-content/uploads/2018/01/464788370.jpg",
+         "mimeType":"image/jpeg"
+      }
+   }
+}
